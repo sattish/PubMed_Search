@@ -1,0 +1,27 @@
+# Build output
+build/
+build-*/
+cmake-build-*/
+
+# Qt Creator
+CMakeLists.txt.user*
+*.user
+*.autosave
+*.qtc_clangd
+.qtcreator/
+.cache/
+
+# CMake / tooling
+CMakeUserPresets.json
+compile_commands.json
+
+# Generated Qt files (only appear in in-source builds)
+moc_*.cpp
+moc_*.h
+ui_*.h
+qrc_*.cpp
+*.o
+
+# Other editors
+.vscode/
+.idea/
