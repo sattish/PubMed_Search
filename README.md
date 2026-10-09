@@ -2,7 +2,7 @@
 
 A simple desktop app for searching PubMed, built with C++ and Qt 6.
 
-![Screenshot](docs/Screenshot.png)
+<img src="docs/Screenshot.png" alt="PubMed Search screenshot" width="800">
 
 
 ## Features
