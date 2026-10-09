@@ -2,7 +2,7 @@
 
 A simple desktop app for searching PubMed, built with C++ and Qt 6.
 
-![Screenshot of PubMed Search](docs/screenshot.png)
+![Screenshot of PubMed Search](docs/Screenshot.png)
 
 ## Features
 - PubMed query syntax, including field tags such as `[au]`, `[ti]` and `[tiab]`
